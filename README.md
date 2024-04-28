@@ -11,7 +11,7 @@
 - 📫 How to reach me: You can reach me via email at tainara.lucindobueno@hotmail.com, or through Instagram and Linkedin.<br>
 <!--- 😄 Pronouns: ...-->
 - ⚡ Fun fact: A curiosity of mine is that I have a different way of holding a pen or pencil when writing.<br>
-- 🌱 I'm learning C, HTML5, CSS3, and JavaScript.
+- 🌱 I'm learning C, HTML5, CSS3, and JavaScript.<br>
 </div>
     <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width="40" height="40"/>
