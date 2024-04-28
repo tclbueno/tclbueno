@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 </div>
 
 <!--![Snake animation](https://github.com/tclbueno/tclbueno/blob/output/github-contribution-grid-snake.svg)-->
-<div class="tenor-gif-embed" data-postid="2431494177525137638" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/jun43d-chopper-tony-tony-chopper-one-piece-excited-chopper-gif-2431494177525137638">Jun43d Chopper Sticker</a>from <a href="https://tenor.com/search/jun43d-stickers">Jun43d Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![pikachu-pokemon](https://github.com/tclbueno/tclbueno/assets/107087909/6a6c7ed2-5fbf-4990-9f9a-8adfc259f16b)
+![jun43d-chopper](https://github.com/tclbueno/tclbueno/assets/107087909/35f8cd01-4ea8-45f2-af68-1a0be3da2b29)
