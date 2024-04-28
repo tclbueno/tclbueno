@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 </div>
 
 <!--![Snake animation](https://github.com/tclbueno/tclbueno/blob/output/github-contribution-grid-snake.svg)-->
-![pikachu-pokemon](https://github.com/tclbueno/tclbueno/assets/107087909/6a6c7ed2-5fbf-4990-9f9a-8adfc259f16b)
-![jun43d-chopper](https://github.com/tclbueno/tclbueno/assets/107087909/35f8cd01-4ea8-45f2-af68-1a0be3da2b29)
+<img loading="lazy" src=" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
+<img loading="lazy" src=" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
+width="40" height="40"/>
