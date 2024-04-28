@@ -4,9 +4,9 @@
 </h4>
 
 <div>
-- 🔭 Currently, I am working at FarmaPopular company in the city of Bragança Paulista, and my current position is virtual attendant....
+- 🔭 Currently, I am working at FarmaPopular company in the city of Bragança Paulista, and my current position is virtual attendant....<br>
 <!--- 👯 I’m looking to collaborate on ...-->
-- 🤔 I'm seeking my first Front-End programming internship opportunity.
+- 🤔 I'm seeking my first Front-End programming internship opportunity.<br>
 <!--- 💬 Ask me about ...--><br>
 - 📫 How to reach me: You can reach me via email at tainara.lucindobueno@hotmail.com, or through Instagram and Linkedin.<br>
 <!--- 😄 Pronouns: ...-->
