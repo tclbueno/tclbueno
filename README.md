@@ -12,7 +12,7 @@
 <!--- 😄 Pronouns: ...-->
 - ⚡ Fun fact: Uma curiosidade minha é que tenho uma forma diferente de segurar a caneta ou lápis para escrever. 
 
-# English:
+
 
 <h1> Hello World! I'm Tainara Bueno👋</h1>  
 
