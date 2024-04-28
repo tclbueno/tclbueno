@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img id="gif" src="https://tenor.com/pt-BR/view/pokemon-pikachu-eevee-smile-high-five-gif-16327495">
 
 <!--![Snake animation](https://github.com/tclbueno/tclbueno/blob/output/github-contribution-grid-snake.svg)-->
 <div>
