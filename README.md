@@ -12,13 +12,14 @@
 <!--- 😄 Pronouns: ...-->
 - ⚡ Fun fact: A curiosity of mine is that I have a different way of holding a pen or pencil when writing.
 - 🌱 I'm learning C, HTML5, CSS3, and JavaScript.
+</div>
     <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
     </div>
-</div>
+
   
 
 
