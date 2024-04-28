@@ -1,8 +1,8 @@
-<h1> Olá, Mundo! Eu sou a Tai👋</h1>  
+<!--<h1> Olá, Mundo! Eu sou a Tai👋</h1>  
 
 <h4> Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo em Bragança Paulista, e estou à procura de migrar de área. </h4>
 
-
+<div>
 - 🔭 Atualmente estou trabalhando na empresa FarmaPopular na cidade de Bragança Paulista, meu cargo atual é de atendente virtual. 
 - 🌱 Estou aprendendo C, HTML5, CSS3 e JavaScript.
 <div>
@@ -12,19 +12,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
 <!--- 👯 I’m looking to collaborate on ...-->
-- 🤔 Estou buscando minha primeira oportunidade de estágio em programação Front-End
+<!--- 🤔 Estou buscando minha primeira oportunidade de estágio em programação Front-End-->
 <!--- 💬 Ask me about ...--><br>
-- 📫 How to reach me: Através do email: tainara.lucindobueno@hotmail.com , ou pelas redes Instagram e Linkedin. <br>
-<!--- 😄 Pronouns: ...-->
+<!--- 📫 How to reach me: Através do email: tainara.lucindobueno@hotmail.com , ou pelas redes Instagram e Linkedin. <br>-->
+<!--- 😄 Pronouns: ...
 - ⚡ Fun fact: Uma curiosidade minha é que tenho uma forma diferente de segurar a caneta ou lápis para escrever. 
-
-
+</div>-->
 
 <h1> Hello World! I'm Tai👋</h1>  
 
 <h4> Currently, I'm studying Systems Analysis and Development at the Federal Institute of São Paulo in Bragança Paulista, and I'm looking to transition to a different field.
 </h4>
-
+<div>
 - 🔭 Currently, I am working at FarmaPopular company in the city of Bragança Paulista, and my current position is virtual attendant....
 - 🌱 I'm learning C, HTML5, CSS3, and JavaScript.
 <div>
@@ -39,6 +38,7 @@
 - 📫 How to reach me: You can reach me via email at tainara.lucindobueno@hotmail.com, or through Instagram and Linkedin.<br>
 <!--- 😄 Pronouns: ...-->
 - ⚡ Fun fact: A curiosity of mine is that I have a different way of holding a pen or pencil when writing.
+</div>
   
 
 
