@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 </div>
 
 <!--![Snake animation](https://github.com/tclbueno/tclbueno/blob/output/github-contribution-grid-snake.svg)-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" / width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" / width="40" height="40">
-<svg viewBox="0 0 128 128">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+
+
 
