@@ -2,17 +2,6 @@
 
 <h4> Currently, I'm studying Systems Analysis and Development at the Federal Institute of São Paulo in Bragança Paulista, and I'm looking to transition to a different field.
 </h4>
-
-<div>
-- 🔭 Currently, I am working at FarmaPopular company in the city of Bragança Paulista, and my current position is virtual attendant.<br>
-<!--- 👯 I’m looking to collaborate on ...-->
-- 🤔 I'm seeking my first Front-End programming internship opportunity.<br>
-<!--- 💬 Ask me about ...-->
-- 📫 How to reach me: You can reach me via email at tainara.lucindobueno@hotmail.com, or through Instagram and Linkedin.<br>
-<!--- 😄 Pronouns: ...-->
-- ⚡ Fun fact: A curiosity of mine is that I have a different way of holding a pen or pencil when writing.<br>
-- 🌱 I'm learning C, HTML5, CSS3, and JavaScript.<br>
-</div>
     <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
